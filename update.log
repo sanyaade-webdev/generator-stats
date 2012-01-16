@@ -820,3 +820,4 @@ rrdtool update nightly_builds.rrd 1326315602:266:2336:333:340:521:432:192:267
 rrdtool update nightly_builds.rrd 1326402002:266:2343:333:262:519:373:193:267
 rrdtool update nightly_builds.rrd 1326488402:266:2349:333:262:518:434:193:267
 rrdtool update nightly_builds.rrd 1326574803:266:2336:334:263:521:433:193:267
+rrdtool update nightly_builds.rrd 1326661202:267:2336:333:262:519:433:193:267
