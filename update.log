@@ -949,3 +949,4 @@ rrdtool update nightly_builds.rrd 1338327001:136:1035:169:136:208:221:U:137
 rrdtool update nightly_builds.rrd 1338413401:133:1035:171:138:212:222:U:140
 rrdtool update nightly_builds.rrd 1338499801:138:1033:173:140:213:225:U:139
 rrdtool update nightly_builds.rrd 1338586201:116:971:144:114:174:188:U:117
+rrdtool update nightly_builds.rrd 1338672601:119:972:143:111:174:191:U:115
